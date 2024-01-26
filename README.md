@@ -17,7 +17,7 @@ mv ~/.cache/nvim{,.bak}
 #### 克隆我的 LazyVim
 
 ```shell
-git clone https://github.com/LazyVim/starter ~/.config/nvim
+git clone https://github.com/sunday70/lazyvim-anonymous.git ~/.config/nvim
 ```
 
 #### 启动 Neovim
